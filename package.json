@@ -1,0 +1,29 @@
+{
+  "name": "drop-key-valorant",
+  "version": "1.0.0",
+  "description": "Fast drop key for Valorant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipesdias/drop-key-valorant.git"
+  },
+  "keywords": [
+    "valorant",
+    "bot",
+    "key",
+    "drop",
+    "game"
+  ],
+  "author": "Felipe de Souza Dias <felipe.s.dias@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felipesdias/drop-key-valorant/issues"
+  },
+  "homepage": "https://github.com/felipesdias/drop-key-valorant#readme",
+  "devDependencies": {
+    "puppeteer": "^3.0.4"
+  }
+}
